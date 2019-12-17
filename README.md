@@ -14,6 +14,6 @@ Python 3.5 or above
 Execute the script with the SCORER Traffic Counter output log and distance as arguments as shown below.
 
 ```
-# arguments: measure.py [csvfile] [distance(meter)]
+# arguments: measure.py [csvfile] [distance(metre)]
 python3 measure.py sample.csv 100 > output.csv
 ```
