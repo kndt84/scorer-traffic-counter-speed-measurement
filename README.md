@@ -11,7 +11,7 @@ In addition, regarding the distance between the detection lines, it is necessary
 Python 3.5 or above
 
 ## Usage
-Execute the script with the SCORER Traffic Counter output log and distance as arguments as shown below.
+Execute the script with the SCORER Traffic Counter output log and distance as shown below.
 
 ```
 # arguments: measure.py [csvfile] [distance(metre)]
